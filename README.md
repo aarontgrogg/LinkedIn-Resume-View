@@ -1,7 +1,7 @@
 LinkedIn-Resume-View
 ====================
 
-Converts your LinkedIn Profile page to a printable Resume page with just one click.
+Convert your LinkedIn Profile page into a printable Resume page with just one click.
 
 More can be found at:
 http://aarontgrogg.com/blog/2013/07/21/how-to-print-a-linkedin-profile-as-a-resume/
