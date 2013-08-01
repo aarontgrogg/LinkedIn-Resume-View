@@ -7,6 +7,7 @@
 
   1)  Compress the CSS:
         #header,
+        #headline-container,
         .profile-aux,
         .demographic-info,
         .profile-card table,
@@ -15,6 +16,13 @@
         #text-ad-container,
         #activity,
         .background-section .education-associated ul li p span,
+        #profile-skills h5,
+        .see-more-less,
+        a.toggle-show-more[title="Show less"],
+        .background-section .education-associated dt span.closed,
+        .background-section h4 a span,
+        .endorse-count,
+        .endorsers-container,
         .endorsements-nav,
         #connections,
         #groups-container,
@@ -23,6 +31,10 @@
         #footer,
         .edit-tools {
           display: none!important;
+        }
+        
+        .profile-card .profile-picture, .profile-card .profile-overview {
+          width: none;
         }
 
         #contact-info-section {
@@ -158,6 +170,25 @@
           margin: 0;
           padding: 0;
         }
+        
+        .skills-section .endorse-item {
+          display: -moz-inline-stack;
+          display: inline-block;
+          vertical-align: middle;
+          zoom: 1;
+          margin-top: 0px;
+          margin-bottom: 5px;
+          margin-left: 0px;
+          margin-right: 5px;
+        }
+        
+        .compact-view {
+          margin-top: 0;
+        }
+        
+        .compact-view .endorse-item.extra-skill {
+          display: inline-block;
+        }
 
         .background-section h3, .background-section-drag-proxy h3 {
           background-image: url('http://www.linkedin.com/scds/common/u/img/sprite/sprite_profile_background_v3.png');
@@ -165,6 +196,19 @@
 
         #background-certifications, #background-courses, #background-education, #background-experience, #background-honors, #background-languages, #background-organizations, #background-patents, #background-projects, #background-publications, #background-skills, #background-summary, #background-test-scores, #background-volunteering, #background-additional-info {
           margin-top: 15px;
+        }
+        
+        .background-section .education-associated dt:after {
+          display: -moz-inline-stack;
+          display: inline-block;
+          vertical-align: middle;
+          zoom: 1;
+          height: 9px;
+          width: 5px;
+          margin-left: 2px;
+          margin-right: 0px;
+          background: url('http://www.linkedin.com/scds/common/u/images/apps/profile/sprite/sprite_profile_edit_tools_v12.png') no-repeat 0 -850px;
+          content: '';
         }
 
         .profile-endorsements {
