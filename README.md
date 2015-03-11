@@ -37,6 +37,9 @@ aarontgrogg@gmail.com
 
 == Changelog ==
 
+= 2.0 2015-03-11 =
+* Embarassingly, nearly two years (!) after the first push, I've finally been pushed hard enough to update this for LinkedIn's current layout.  Sorry to those that have been frustrated, and thanks to those that kicked me in the butt.
+
 = 1.0 2013-07-21 =
 * Initial code push
 
