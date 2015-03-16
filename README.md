@@ -30,12 +30,15 @@ aarontgrogg@gmail.com
 1. Create a browser Bookmark
 2. Give it a title, something like "LinkedIn Resume"
 3. Copy/paste the compressed JavaScript function into the URL of the Bookmark
-4. Go to your LinkedIn Profile page
+4. Go to your LinkedIn Profile page (I recommend using "View profile as: Connections")
 5. Click the Bookmark
 7. Your Profile should immediately transform into a page that looks good on the screen and prints well.
 
 
 == Changelog ==
+
+= 2.1 2015-03-16 =
+* Added recommendation to use "View profile as: Connections" view
 
 = 2.0 2015-03-11 =
 * Embarassingly, nearly two years (!) after the first push, I've finally been pushed hard enough to update this for LinkedIn's current layout.  Sorry to those that have been frustrated, and thanks to those that kicked me in the butt.
