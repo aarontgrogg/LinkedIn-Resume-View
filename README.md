@@ -6,7 +6,7 @@ Convert your LinkedIn Profile page into a printable Resume page with just one cl
 More can be found at:
 http://aarontgrogg.com/blog/2013/07/21/how-to-print-a-linkedin-profile-as-a-resume/
 
-*Note that I also have a Chrome Extension version of this, available via GitHub and via the Chrome Web Store:*
+**Note that I also have a Chrome Extension version of this, available via GitHub and via the Chrome Web Store:**
 http://aarontgrogg.com/blog/2015/04/30/how-to-print-a-linkedin-profile-as-a-resume-the-chrome-extension/
 
 
