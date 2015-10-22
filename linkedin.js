@@ -3,6 +3,7 @@
   Steps to customize or alter the Bookmarklet:
 
   1)  Edit and compress the following CSS, using something like http://csscompressor.com/
+        #global-error,
         #preview-ctx,
         .account-icons,
         #header,
